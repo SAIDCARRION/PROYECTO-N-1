@@ -30,6 +30,8 @@ Un diodo LED es un dispositivo que permite el paso de corriente en un solo senti
 
 3. DESAROLLO
 
+[![Whats-App-Image-2022-12-01-at-12-34-01-PM.jpg](https://i.postimg.cc/vH8G8RDG/Whats-App-Image-2022-12-01-at-12-34-01-PM.jpg)](https://postimg.cc/Z0QGjMrQ)
+
 [![Whats-App-Image-2022-12-01-at-10-44-11-AM.jpg](https://i.postimg.cc/65Dhn9KV/Whats-App-Image-2022-12-01-at-10-44-11-AM.jpg)](https://postimg.cc/ppJ8tMpy)
 
 [![Whats-App-Image-2022-12-01-at-10-44-12-AM.jpg](https://i.postimg.cc/kGHvjCbm/Whats-App-Image-2022-12-01-at-10-44-12-AM.jpg)](https://postimg.cc/D4qGZt6j)
