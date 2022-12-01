@@ -10,14 +10,15 @@ SAID CARRIÓN
 
 1.OBEJTIVOS
 
-Aplicar los Teoremas de Circuitos y Conversiones para la comprensión y simplificación de circuitos serie-paralelo.
+Aplicar lo que se a trabajo en los simuladores en este primer parcial, pero ahora con componetntes físicos.
+
 Objetivos Específicos:
 
-Aplicar el teorema de Norton para simplificar un circuito lineal con dos extremos en un circuito equivalente con una sola fuente de corriente y resistencia.
+- Con los componentes solicitados armar el circuito de manera minusiosa para no cometer errores 
 
-Aplicar el teorema de superposición para desarrollar circuitos con múltiples fuentes.
+- Demostrar el funcionamiento de este proyecto en particular 
 
-Aprender la reducción de circuitos Wheatstone mediante la conversión de circuitos Δ a Y o Y a Δ.
+- Aprendaer mas sobre los circuitos de referencia.
 
 2.MARCO TEÓRICO
 
@@ -62,9 +63,9 @@ https://youtu.be/IJ7ygtpbnHU
 
 7. Concluciones 
 
--Como concluciones podemos decir que si seguimos los pasos correspondientes y utilizamos los valores de cada componente de manera ordenada se puede lograr un funcionamiento muy espectacular ya que se usan detalles visuales como las luces led.
+-Como concluciones podemos decir que si seguimos los pasos correspondientes y utilizamos los valores de cada componente de manera ordenada se puede lograr un buen funcionamiento del circuito con resultados similares y positivos del video de referencia.
 
--Trabajando de esta manera podemos aprender a armar circuitos mas complejos y necesarios para el desarollo de nuestra carrera en general.
+-Trabajando de esta manera podemos aprender a armar circuitos mas complejos y seguir adquiriendo conocimientos para aplicarlos en el futuro.
 
 8.bibliografia
 
