@@ -10,7 +10,7 @@ SAID CARRIÓN
 
 1.OBEJTIVOS
 
-Aplicar lo que se a trabajo en los simuladores en este primer parcial, pero ahora con componetntes físicos.
+Aplicar lo que se a trabajo en los simuladores en este primer parcial, pero ahora con componentes físicos.
 
 Objetivos Específicos:
 
