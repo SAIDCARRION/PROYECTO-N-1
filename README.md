@@ -1,9 +1,11 @@
 # PROYECTO-N-1
+INTEGRANTES:
 
+HENRY MACIAS 
+JOSÉ PILAGUANO 
+SAID CARRIÓN
 
-
-OBEJTIVOS
-Objetivo General:
+1.OBEJTIVOS
 
 Aplicar los Teoremas de Circuitos y Conversiones para la comprensión y simplificación de circuitos serie-paralelo.
 Objetivos Específicos:
@@ -14,7 +16,7 @@ Aplicar el teorema de superposición para desarrollar circuitos con múltiples f
 
 Aprender la reducción de circuitos Wheatstone mediante la conversión de circuitos Δ a Y o Y a Δ.
 
-MARCO TEÓRICO
+2.MARCO TEÓRICO
 
 Un transistor, es un dispositivo semiconductor impulsado por corriente, que puede ser utilizado para controlar el flujo de corriente eléctrica en la que una pequeña cantidad de corriente en el conductor base controla una mayor cantidad de corriente entre el.
 
